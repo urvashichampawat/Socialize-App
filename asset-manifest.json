@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Socialize-App/static/css/main.073c9b0a.css",
+    "main.js": "/Socialize-App/static/js/main.b8fb1b81.js",
+    "static/js/787.7ae4b58b.chunk.js": "/Socialize-App/static/js/787.7ae4b58b.chunk.js",
+    "static/media/logo.svg": "/Socialize-App/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Socialize-App/index.html",
+    "main.073c9b0a.css.map": "/Socialize-App/static/css/main.073c9b0a.css.map",
+    "main.b8fb1b81.js.map": "/Socialize-App/static/js/main.b8fb1b81.js.map",
+    "787.7ae4b58b.chunk.js.map": "/Socialize-App/static/js/787.7ae4b58b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b8fb1b81.js"
+  ]
+}
